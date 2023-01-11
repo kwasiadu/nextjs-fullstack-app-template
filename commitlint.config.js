@@ -8,7 +8,7 @@
 // style: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
 // test: Adding missing tests or correcting existing tests
 // translation: Changes that affect how the app is translated
-// security: A code change that improves security
+// security: A code change that improves securit
 
 module.exports = {
     extends: ['@commitlint/config-conventional'],
