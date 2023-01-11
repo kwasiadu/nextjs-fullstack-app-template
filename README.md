@@ -1,3 +1,5 @@
+This article was used as a guide in setting up this project: https://dev.to/alexeagleson/how-to-build-scalable-architecture-for-your-nextjs-project-2pb7
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
