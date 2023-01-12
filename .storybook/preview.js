@@ -1,6 +1,7 @@
 import "../styles/globals.css";
 import * as NextImage from "next/image";
 
+// This part is based on your viewport preferences
 const BREAKPOINTS_INT = {
   xs: 375,
   sm: 600,

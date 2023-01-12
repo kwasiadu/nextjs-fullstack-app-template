@@ -1,6 +1,6 @@
 module.exports = {
   stories: ["../**/*.stories.mdx", "../**/*.stories.@(js|jsx|ts|tsx)"],
-  /* Expose public folder to storybook as static */
+  /* Tell storybook where the static folder is */
   staticDirs: ["../public"],
   addons: [
     "@storybook/addon-links",
